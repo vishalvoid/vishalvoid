@@ -1,4 +1,6 @@
  ## Languages and Tools :frog:
+ ![](https://komarev.com/ghpvc/?username=vishalvoid&style=flat-square)
+ 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
