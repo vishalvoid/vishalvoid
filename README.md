@@ -1,7 +1,7 @@
 
- # Hi ![](https://batak.in)I am Vishal Kumar Singh
+ # Hi ![](https://vishalvoid.com)I am Vishal Kumar Singh
  
- ## Developer
+ ## Developer | [Vishalvoid.com](https://vishalvoid.com)
 
  Hey there, I am a web and app developer based in Noida, India. People often tell me my name sounds cool, but I like to think it's my coding skills that are really cool! Right now, I'm working on a project called Batak - I figured Engaging with new people online can be an excellent source of knowledge and learning. and who knows from where i get money for the new machine i can code on. I'm always looking to learn new things, which is why I'm currently diving into Solidity and three.js. But let's be real - my real superpower is making sure that every website and app I create has the perfect shade of black&white in the color scheme. I've been known to code in my sleep, although I don't recommend it - my keyboard's gotten pretty drool-y over the years. I'm always up for a coding challenge, so hit me up if you need some help or want to collaborate on an open source project. Just make sure to bring coffee, because let's be real, coding without caffeine is like trying to drive a car with no diesel!
 
