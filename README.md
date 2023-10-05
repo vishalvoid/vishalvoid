@@ -15,7 +15,7 @@
  ![](https://komarev.com/ghpvc/?username=vishalvoid&style=flat-square)
 
  ### Skills
- [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,expressjs,mongodb,js,html,css,java,git,aws,linux,tailwind,bootstrap,materialui,redux,mysql,firebase,metamask)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,expressjs,mongodb,js,html,css,java,git,aws,linux,tailwind,bootstrap,materialui,redux,mysql,firebase,metamask)](https://vishalvoid.com)
 
 <!--
 <p align="left">
