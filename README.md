@@ -12,8 +12,9 @@
 - 🤝  I'm open to collaborating on Open source projects
 - ⚡  I have a degree in Bachelor of Computer Application (Soon Masters), so i would like to code in Space
 
-![vishalvoid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalvoid&theme=vue-dark&hide_border=true)
+
 ![vishalvoid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvoid&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+ ![](https://komarev.com/ghpvc/?username=vishalvoid&style=flat-square)
 
  ### Skills
  [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,expressjs,mongodb,js,html,css,java,git,aws,linux,tailwind,bootstrap,materialui,redux,mysql,firebase,metamask)](https://vishalvoid.com)
