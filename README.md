@@ -1,19 +1,19 @@
 
- # Hi ![](https://vishalvoid.com)I am Vishal Kumar Singh
+ # Hi ![](https://vishalvoid.com)I am Vishal Singh
  
- ## Developer | [Vishalvoid.com](https://vishalvoid.com)
+ ## Full Stack Developer | [vishalvoid.com](https://vishalvoid.com)
 
- Hey there, I am a web and app developer based in Noida, India. People often tell me my name sounds cool, but I like to think it's my coding skills that are really cool! Right now, I'm working on a project called Batak - I figured Engaging with new people online can be an excellent source of knowledge and learning. and who knows from where i get money for the new machine i can code on. I'm always looking to learn new things, which is why I'm currently diving into Solidity and three.js. But let's be real - my real superpower is making sure that every website and app I create has the perfect shade of black&white in the color scheme. I've been known to code in my sleep, although I don't recommend it - my keyboard's gotten pretty drool-y over the years. I'm always up for a coding challenge, so hit me up if you need some help or want to collaborate on an open source project. Just make sure to bring coffee, because let's be real, coding without caffeine is like trying to drive a car with no diesel!
+Hello People, I'm Vishal Kumar Singh, a fullstack developer from Noida, India with 2+ years of experience building performant, accessible web applications. I specialize in React, Next.js and TypeScript, and I focus on creating maintainable code, thoughtful UX, and reliable backends.
 
- - 🌍  I'm based in Noida,India
-- ✉️  You can contact me at [tech.vishalkrsingh@gmail.com](mailto:tech.vishalkrsingh@gmail.com)
-- 🚀  I'm currently working on [Dravin](http://Dravin.in). you might want to check it out.
-- 🧠  I'm learning Solidity and three.js
-- 🤝  I'm open to collaborating on Open source projects
-- ⚡  I have a degree in Bachelor of Computer Application (Soon Masters), so i would like to code in Space
+- 🌍  Based in **Noida, India**
+- ✉️  You can contact me at [tech.vishalkrsingh@gmail.com](mailto:tech.vishalkrsingh@gmail.com)
+- 🔨  Currently building **[focushya](https://github.com/vishalvoid/focushya)**
+- 🧠  Learning **Web3, Blockchain, and Advanced System Design**
+- 🤝  Open to collaborating on **Open Source Projects** and **SaaS Products**
+- 🎓  Bachelor of Computer Application graduate, exploring **Master's programs**
 
 
-![vishalvoid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvoid&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
  ![](https://komarev.com/ghpvc/?username=vishalvoid&style=flat-square)
 
  ### Skills
@@ -47,21 +47,6 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/vishalvoid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.linkedin.com/in/vishalvoid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.x.com/vishal_void" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-
-### My Github Stats
-<div  align="left">
- <a href="http://www.github.com/vishalvoid"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvoid&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
- ### Top Repository
- <a href="https://github.com/vishalvoid/Dev_Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalvoid&repo=Dev_Portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a>  
-</p>
-</div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-<a style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vishalvoid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-
-
 
 
 
